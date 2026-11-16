@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Whale",
+  "description": "Fast-paced 2D crypto survival arcade game where you evolve from a meme coin into a Bitcoin whale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
